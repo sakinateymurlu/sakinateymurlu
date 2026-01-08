@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sakina Teymurlu
+# Hi, I'm Sakina Teymurlu
 **Data Enthusiast | Oracle SQL Certified | Power BI & Data Modeling Learner**
 
 I turn complex data into actionable insights. Strong expertise in **Oracle SQL (Oracle Database SQL 1Z0-071 certified)** and working knowledge of PL/SQL, Power BI, and Data Modeling.  
